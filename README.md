@@ -16,13 +16,13 @@ A basic RESTful CRUD API built with Spring Boot. This project demonstrates handl
 
 ## HTTP Request Screenshots Using Postman
 
-![GET Request Screenshot]
+### GET REQUEST
 <img width="409" height="412" alt="image" src="https://github.com/user-attachments/assets/bb27aa7b-3786-4316-aab6-404d44cfd6a0" />
-![POST Request Screenshot]
+### POST REQUEST
 <img width="387" height="406" alt="image" src="https://github.com/user-attachments/assets/8a0e8da0-a288-4d1c-8275-6206c188c88c" />
-![PUT Request Screenshot]
+### PUT REQUEST
 <img width="396" height="378" alt="image" src="https://github.com/user-attachments/assets/0d612264-3f1d-45ca-a369-cef009a5ede1" />
-![DELETE Request Screenshot]
+### DELETE REQUEST
 <img width="521" height="328" alt="image" src="https://github.com/user-attachments/assets/ff0dc550-a1dd-4d91-8611-93e057f5e8ca" />
 
 
